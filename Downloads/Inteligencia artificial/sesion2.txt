@@ -1,0 +1,254 @@
+# Actividad: Tres cupos para ocho estudiantes
+
+## 1. Planteamiento de la actividad
+
+En un curso de programación participan ocho estudiantes que tienen diferentes niveles de desempeño y circunstancias personales. Sin embargo, solamente existen tres cupos para acceder a un programa de acompañamiento académico.
+
+El propósito de la actividad es utilizar herramientas de inteligencia artificial para analizar la información disponible, identificar quiénes podrían necesitar más este apoyo y justificar la selección realizada.
+
+Las calificaciones se encuentran en una escala de 0 a 5, siendo 3,0 la nota mínima aprobatoria.
+
+### Información de los estudiantes
+
+| Estudiante | Nota | Asistencia | Situación particular |
+|---|---:|---:|---|
+| Ana | 2,1 | 95 % | Dedica tiempo al estudio independiente, pero todavía presenta dificultades para comprender conceptos fundamentales. |
+| Bruno | 2,8 | 65 % | Sus responsabilidades laborales coinciden con algunos horarios de clase. |
+| Camila | 2,8 | 100 % | Puede desarrollar ejercicios cuando recibe ayuda, pero tiene dificultades para resolverlos de manera individual. |
+| Diego | 1,9 | 60 % | Ha tenido que ausentarse para cuidar a un familiar. Desea continuar estudiando, aunque siente que se ha quedado atrás. |
+| Elena | 2,7 | 100 % | Comprende las explicaciones, pero presenta errores durante la elaboración de programas. |
+| Felipe | 4,3 | 95 % | Tiene un buen desempeño y busca aprender contenidos más avanzados. |
+| Gabriela | 2,6 | 80 % | Tiene acceso limitado a un computador porque debe compartirlo en su hogar. |
+| Hugo | 2,5 | 90 % | Cumple con las entregas, pero presenta dificultades para explicar el funcionamiento del código que desarrolla. |
+
+## 2. Elección individual
+
+Antes de realizar las consultas a las herramientas de inteligencia artificial, se hizo una selección personal de los tres estudiantes que, desde nuestro criterio, podrían necesitar prioritariamente el acompañamiento.
+
+**Estudiantes elegidos: Ana, Diego y Elena.**
+
+Los criterios considerados fueron:
+
+- **Desempeño académico:** se priorizaron estudiantes con calificaciones bajas y dificultades para alcanzar el nivel mínimo de aprobación.
+- **Compromiso con el aprendizaje:** se tuvo en cuenta la asistencia y el interés por continuar con el proceso formativo.
+- **Circunstancias personales:** se consideraron las situaciones particulares que pueden afectar el desempeño académico, especialmente el caso de Diego, quien ha tenido responsabilidades de cuidado familiar.
+
+Esta primera elección parte de una mirada que busca reconocer tanto las dificultades académicas como las condiciones individuales de cada estudiante.
+
+## 3. Primera consulta a la inteligencia artificial
+
+En la primera interacción se presentó a la IA el caso de los ocho estudiantes, sus calificaciones, porcentajes de asistencia y situaciones particulares. Se le solicitó seleccionar a tres personas que necesitaran prioritariamente el acompañamiento, explicar las razones de cada elección y justificar por qué los demás no serían seleccionados.
+
+### Resultado de la consulta
+
+La propuesta obtenida fue seleccionar a **Diego, Ana y Gabriela**.
+
+La herramienta consideró que estos estudiantes reunían dificultades académicas y circunstancias que podían limitar sus posibilidades de aprendizaje.
+
+### 3.1. Justificación de los estudiantes seleccionados
+
+**1. Diego — Nota: 1,9 | Asistencia: 60 %**
+
+Diego presenta el rendimiento académico más bajo del grupo. Sus ausencias están relacionadas con el cuidado de un familiar, situación que ha dificultado su participación en las clases. Además, expresa preocupación por el retraso que lleva, aunque manifiesta interés en continuar estudiando.
+
+El acompañamiento podría contribuir a recuperar los contenidos que no ha podido desarrollar, fortalecer sus conocimientos y establecer una estrategia de estudio que tenga en cuenta sus responsabilidades personales.
+
+**Motivo de selección:** presenta dificultades académicas importantes y circunstancias familiares que han afectado su continuidad en el proceso formativo.
+
+**2. Ana — Nota: 2,1 | Asistencia: 95 %**
+
+Aunque Ana mantiene una asistencia constante y dedica tiempo al estudio independiente, todavía tiene dificultades para comprender algunos conceptos esenciales de programación.
+
+Su situación permite identificar que asistir a clase y estudiar por cuenta propia no siempre garantiza la comprensión de los contenidos. Por ello, sería conveniente ofrecerle orientación individual para reconocer sus vacíos de aprendizaje y fortalecer sus conocimientos básicos.
+
+**Motivo de selección:** requiere acompañamiento académico para superar dificultades conceptuales que persisten a pesar de su esfuerzo y asistencia.
+
+**3. Gabriela — Nota: 2,6 | Asistencia: 80 %**
+
+Gabriela presenta un desempeño inferior al requerido para aprobar y tiene una limitación importante para practicar programación: debe compartir el computador en su hogar.
+
+Esta condición reduce el tiempo que puede dedicar a desarrollar ejercicios y experimentar con el código. El acompañamiento podría ayudarla a aprovechar mejor los espacios de práctica y reforzar los conocimientos que necesita.
+
+**Motivo de selección:** sus posibilidades de aprendizaje están condicionadas por el acceso limitado a los recursos tecnológicos necesarios para practicar.
+
+### 3.2. Razones para no seleccionar a los demás estudiantes
+
+La decisión de no incluir a los otros cinco estudiantes no significa que sus necesidades sean menos importantes, sino que, al existir pocos cupos, se priorizaron situaciones que combinan dificultades académicas y obstáculos adicionales.
+
+- **Bruno — Nota: 2,8 | Asistencia: 65 %:** sus ausencias se relacionan con los horarios de trabajo. Aunque requiere apoyo para recuperar los contenidos, su situación podría abordarse mediante alternativas de horario y espacios de recuperación.
+
+- **Camila — Nota: 2,8 | Asistencia: 100 %:** asiste regularmente y logra resolver ejercicios con ayuda de otra persona, pero necesita desarrollar mayor seguridad y autonomía para trabajar individualmente. Se considera que su rendimiento está más cerca del nivel aprobatorio que el de los estudiantes seleccionados.
+
+- **Elena — Nota: 2,7 | Asistencia: 100 %:** comprende las explicaciones, aunque presenta dificultades al momento de programar. Su necesidad podría atenderse mediante ejercicios prácticos, revisión de errores y retroalimentación específica.
+
+- **Felipe — Nota: 4,3 | Asistencia: 95 %:** tiene un desempeño académico destacado y su interés está orientado a profundizar en contenidos avanzados. Debido a que el objetivo de la selección es atender dificultades que ponen en riesgo la aprobación, sus necesidades no representan la prioridad de estos cupos.
+
+- **Hugo — Nota: 2,5 | Asistencia: 90 %:** cumple con las actividades, pero necesita mejorar su comprensión del código y la capacidad de explicar las soluciones que presenta. Aunque requiere acompañamiento, se priorizaron estudiantes con mayores dificultades académicas o barreras adicionales para practicar.
+
+### 3.3. Reflexión sobre el uso de la inteligencia artificial
+
+La inteligencia artificial puede facilitar la organización de la información, reconocer patrones y comparar las necesidades de los estudiantes. No obstante, una decisión de este tipo no debería depender exclusivamente de las calificaciones o los porcentajes de asistencia.
+
+Para realizar una valoración más equilibrada, es necesario considerar:
+
+- Las dificultades que presenta cada estudiante para alcanzar los objetivos académicos.
+- Las condiciones familiares, personales y materiales que pueden interferir en su aprendizaje.
+- La motivación y el interés por continuar en el proceso educativo.
+- La pertinencia del acompañamiento frente a las necesidades identificadas.
+
+Por esta razón, las recomendaciones de la IA deben ser revisadas por las personas responsables del proceso formativo y contrastadas con las experiencias de los propios estudiantes.
+
+## 4. Observaciones de la primera consulta a diferentes herramientas de IA
+
+Al comparar las respuestas obtenidas, se identificaron distintas formas de interpretar los criterios de selección:
+
+- **ChatGPT:** planteó una selección basada en la relación entre las dificultades académicas y las circunstancias personales que pueden limitar las oportunidades de aprendizaje.
+- **Gemini:** dio mayor importancia a los estudiantes que estaban próximos a alcanzar la nota aprobatoria y que demostraban compromiso mediante su asistencia.
+- **Claude:** destacó la importancia de identificar el riesgo de reprobar o abandonar el curso y establecer si el acompañamiento académico podía responder a las dificultades encontradas.
+- **Kimi:** propuso considerar conjuntamente el riesgo académico, las dificultades de aprendizaje y los obstáculos externos que afectan las posibilidades de práctica.
+- **Grok:** tuvo en cuenta la distancia frente a la nota mínima, las barreras personales o materiales y las evidencias de interés por continuar estudiando.
+
+Esta comparación permitió observar que, aunque las herramientas recibieron los mismos datos, no necesariamente interpretaron las prioridades de la misma manera.
+
+## 5. Segunda consulta: incorporación de información sobre el programa
+
+Para la segunda interacción se mantuvo la información de los ocho estudiantes, pero se agregó una descripción más precisa del programa al que podrían acceder los tres seleccionados.
+
+### Características del Programa B: Continuidad en el curso
+
+El programa tiene una duración de ocho semanas y busca fortalecer la permanencia de los estudiantes y prevenir el abandono académico.
+
+Sus componentes son:
+
+- Tutorías semanales con horarios flexibles.
+- Seis horas adicionales de acceso a computadores por semana.
+- Disponibilidad de al menos un horario al que pueden asistir los ocho estudiantes.
+- No contempla ayudas económicas ni préstamo de computadores para utilizar en casa.
+- El repaso para el examen está disponible para todo el grupo y funciona de manera independiente a los tres cupos.
+
+Con esta información adicional, se solicitó nuevamente a la inteligencia artificial identificar a los tres estudiantes que deberían recibir el acompañamiento, teniendo en cuenta no solamente sus dificultades, sino también la relación entre sus necesidades y los recursos que ofrece el programa.
+
+### 5.1. Resultado de la segunda consulta
+
+La selección propuesta continuó siendo **Diego, Gabriela y Ana**.
+
+La herramienta consideró que sus situaciones presentaban necesidades que podían ser atendidas directamente mediante las tutorías flexibles y el acceso adicional a computadores.
+
+### 5.2. Justificación de la selección
+
+**1. Diego — Nota: 1,9 | Asistencia: 60 %**
+
+Diego continúa siendo el caso de mayor preocupación por su bajo rendimiento y las dificultades que ha tenido para asistir a las clases debido a sus responsabilidades familiares.
+
+Las tutorías con horarios flexibles representan una alternativa pertinente para que pueda organizar sus tiempos y recuperar los contenidos pendientes. El acompañamiento semanal también le permitiría avanzar gradualmente y reducir la sensación de atraso académico.
+
+**Razón principal:** presenta un riesgo importante de no continuar satisfactoriamente en el curso debido a la combinación de dificultades académicas y circunstancias personales.
+
+**2. Gabriela — Nota: 2,6 | Asistencia: 80 %**
+
+La principal dificultad de Gabriela está relacionada con el acceso limitado a un computador, lo cual reduce sus oportunidades de practicar los ejercicios de programación.
+
+En este caso, las seis horas adicionales de acceso a equipos por semana representan un recurso directamente relacionado con su necesidad. Asimismo, las tutorías pueden ayudarla a resolver inquietudes y aprovechar mejor los espacios disponibles.
+
+Es importante tener presente que el programa no contempla el préstamo de computadores para el hogar. Por lo tanto, aunque la medida puede favorecer su aprendizaje, no elimina completamente la barrera tecnológica que enfrenta.
+
+**Razón principal:** el programa ofrece un recurso que responde de manera directa a una de las principales dificultades que limitan su práctica.
+
+**3. Ana — Nota: 2,1 | Asistencia: 95 %**
+
+Ana mantiene una asistencia elevada y realiza esfuerzos por estudiar de manera independiente, pero sus resultados muestran que todavía no ha logrado comprender varios fundamentos de programación.
+
+Las tutorías semanales podrían ayudarle a identificar los conceptos que necesita reforzar, resolver dudas y construir bases más sólidas para continuar avanzando.
+
+**Razón principal:** necesita orientación académica específica para superar dificultades de comprensión que persisten a pesar de su compromiso con el estudio.
+
+### 5.3. Justificación de los estudiantes no seleccionados
+
+Es importante aclarar que quedar por fuera de los tres cupos no significa que los demás estudiantes no necesiten acompañamiento. La decisión responde a la necesidad de priorizar los casos que presentan mayores dificultades y cuyas necesidades tienen una relación más directa con los recursos disponibles.
+
+**Bruno — Nota: 2,8 | Asistencia: 65 %**
+
+Sus responsabilidades laborales interfieren con la asistencia a las clases. Las tutorías flexibles podrían facilitar su participación y permitirle recuperar algunos contenidos. Sin embargo, su calificación está más cerca de la nota mínima aprobatoria que la de Ana y Diego.
+
+Como alternativa, podría aprovechar los horarios disponibles de tutoría y el repaso para el examen, al que tiene acceso junto con los demás estudiantes.
+
+**Camila — Nota: 2,8 | Asistencia: 100 %**
+
+Camila participa en todas las clases y puede desarrollar ejercicios cuando cuenta con apoyo, pero presenta inseguridad al trabajar de manera independiente.
+
+Su principal necesidad está relacionada con el fortalecimiento de la autonomía y la confianza para resolver problemas. Se podría recomendar que intente desarrollar los ejercicios individualmente antes de solicitar ayuda y que aproveche los espacios de repaso disponibles.
+
+**Elena — Nota: 2,7 | Asistencia: 100 %**
+
+Elena comprende los contenidos explicados, aunque comete errores durante la programación. Su dificultad se relaciona principalmente con la aplicación práctica de los conocimientos y la identificación de errores en el código.
+
+Podría beneficiarse de actividades de depuración y ejercicios que le permitan revisar sus propios procedimientos. Sin embargo, no se identifican otras barreras importantes en la información presentada.
+
+**Felipe — Nota: 4,3 | Asistencia: 95 %**
+
+Felipe presenta el mejor resultado académico y tiene interés en profundizar en temas de mayor complejidad. Aunque su motivación por aprender es positiva, el objetivo del Programa B es favorecer la permanencia de quienes enfrentan dificultades para continuar en el curso.
+
+Por esta razón, sus necesidades de profundización no se consideran prioritarias frente a las de los estudiantes con riesgo académico. Como alternativa, podría trabajar con ejercicios avanzados y materiales complementarios.
+
+**Hugo — Nota: 2,5 | Asistencia: 90 %**
+
+Hugo cumple con las entregas, pero presenta dificultades para explicar el funcionamiento del código que desarrolla. Esto evidencia la necesidad de fortalecer su comprensión y capacidad para resolver problemas de manera autónoma.
+
+Podría practicar explicando cada parte de sus programas, realizando modificaciones y resolviendo ejercicios similares sin depender de soluciones anteriores. Aunque necesita apoyo, se priorizaron las situaciones de Diego, Gabriela y Ana por la combinación de dificultades académicas y barreras que presentan.
+
+### 5.4. Resumen de la decisión
+
+| Estudiante | Nota | Asistencia | Decisión | Criterio principal |
+|---|---:|---:|---|---|
+| Ana | 2,1 | 95 % | Seleccionada | Dificultades de comprensión de conceptos básicos. |
+| Bruno | 2,8 | 65 % | No seleccionado | Cruce entre responsabilidades laborales y horarios de clase. |
+| Camila | 2,8 | 100 % | No seleccionada | Necesita fortalecer su autonomía. |
+| Diego | 1,9 | 60 % | Seleccionado | Bajo rendimiento y responsabilidades familiares que afectan su asistencia. |
+| Elena | 2,7 | 100 % | No seleccionada | Necesita mejorar la aplicación práctica de los conocimientos. |
+| Felipe | 4,3 | 95 % | No seleccionado | Busca profundizar en contenidos avanzados. |
+| Gabriela | 2,6 | 80 % | Seleccionada | Acceso limitado a equipos para practicar. |
+| Hugo | 2,5 | 90 % | No seleccionado | Necesita fortalecer la comprensión y explicación del código. |
+
+### 5.5. Consideraciones éticas frente a la selección
+
+La asignación de los tres cupos debe entenderse como una priorización basada en las condiciones disponibles y no como una clasificación del valor o las capacidades de los estudiantes.
+
+Para que la decisión sea lo más justa posible, es necesario considerar tres aspectos:
+
+1. **Necesidad académica:** identificar qué dificultades presenta cada persona para alcanzar los resultados esperados en el curso.
+2. **Condiciones que afectan la continuidad:** reconocer las situaciones personales, familiares y materiales que pueden dificultar la asistencia, la práctica o el aprendizaje.
+3. **Relación con los recursos del programa:** analizar si las tutorías flexibles y las horas adicionales de computador pueden responder efectivamente a las necesidades identificadas.
+
+También es fundamental evitar interpretaciones apresuradas. Una asistencia baja no necesariamente representa desinterés por estudiar, así como una calificación alta no significa que una persona no tenga otras necesidades de aprendizaje.
+
+En consecuencia, la selección de Diego, Gabriela y Ana se fundamenta en la combinación de sus dificultades académicas, las barreras que enfrentan y las posibilidades de mejora que ofrece el programa.
+
+## 6. Comparación entre la primera y la segunda consulta
+
+Al revisar los resultados de las dos interacciones, se observa que la selección propuesta por ChatGPT no presentó modificaciones: en ambas ocasiones recomendó a Diego, Ana y Gabriela.
+
+| Estudiante | ¿Cambió la decisión? | Argumento que se mantuvo |
+|---|---|---|
+| Diego | No | Su bajo rendimiento se relaciona con dificultades familiares que afectan su asistencia y continuidad. |
+| Ana | No | Presenta dificultades para comprender conceptos fundamentales, a pesar de su asistencia y esfuerzo. |
+| Gabriela | No | Tiene limitaciones de acceso a un computador, lo que reduce sus posibilidades de practicar. |
+
+La incorporación de la información sobre el Programa B permitió precisar por qué los recursos ofrecidos podían beneficiar a cada uno de los seleccionados.
+
+En el caso de Diego, se destacó la utilidad de los horarios flexibles; para Gabriela, el acceso adicional a computadores; y para Ana, las tutorías orientadas al fortalecimiento de conceptos básicos.
+
+Aunque la decisión no cambió, la segunda consulta permitió realizar un análisis más contextualizado y establecer una relación más clara entre las necesidades de los estudiantes y las características del acompañamiento.
+
+## 7. Conclusión general
+
+El desarrollo de esta actividad permitió reconocer que la información que se proporciona a una herramienta de inteligencia artificial influye directamente en el tipo de respuesta que genera. No es suficiente presentar únicamente las calificaciones y la asistencia de los estudiantes; también es necesario explicar sus circunstancias particulares y los objetivos del programa al que aspiran ingresar.
+
+En las consultas realizadas a ChatGPT, la selección de Diego, Ana y Gabriela se mantuvo en ambas interacciones. Desde la primera respuesta, la herramienta relacionó las dificultades académicas con las situaciones personales que podían afectar la continuidad de los estudiantes. Al incorporar la descripción del Programa B, sus argumentos se hicieron más específicos, pues identificó cómo los recursos disponibles podían responder a las necesidades de cada uno.
+
+Al comparar este resultado con Gemini, se identificaron diferencias en la interpretación inicial del caso. En su primera consulta, esta herramienta dio mayor relevancia a los estudiantes que estaban más cerca de alcanzar la nota aprobatoria y que demostraban compromiso mediante su asistencia. Sin embargo, al recibir información adicional sobre el propósito del programa, orientado a favorecer la permanencia y prevenir el abandono, modificó su análisis y comenzó a considerar de manera conjunta las dificultades académicas y las barreras personales.
+
+Esta experiencia nos permitió comprender que las herramientas de IA pueden ofrecer perspectivas diferentes frente a una misma situación, dependiendo de los criterios y el contexto que se les proporcionen. Por eso, es importante formular consultas claras, entregar información suficiente y analizar críticamente las respuestas obtenidas.
+
+Finalmente, consideramos que la inteligencia artificial puede ser un recurso útil para apoyar procesos de análisis y toma de decisiones, pero no debe reemplazar el criterio humano. La selección de los estudiantes debe tener en cuenta sus realidades, evitar prejuicios y reconocer que detrás de cada resultado académico existen condiciones y oportunidades diferentes.
+
+La finalidad no es determinar quién merece más ayuda, sino identificar, dentro de las posibilidades existentes, quiénes podrían beneficiarse prioritariamente de los recursos disponibles para continuar con su formación.
